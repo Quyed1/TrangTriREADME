@@ -1,0 +1,32 @@
+/* Reset giá trị mặc định */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Định dạng tiêu đề */
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Định dạng danh sách chỉ mục */
+  ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
